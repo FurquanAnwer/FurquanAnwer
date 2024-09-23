@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Personal Projects
-![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furquan&show_icons=true&theme=radical)
+![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 
 
-![Furquan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Furquan&theme=react-dark)
+![Furquan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=FurquanAnwer&theme=react-dark)
 
