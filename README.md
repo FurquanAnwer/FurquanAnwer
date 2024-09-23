@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 ![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 
 
-![Furquan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=FurquanAnwer&theme=react-dark)
+![Furquan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Furquan&theme=react-dark)
+
 
