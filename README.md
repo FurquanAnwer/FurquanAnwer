@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## Personal Projects
+![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furquan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Furquan&layout=compact)
+
+![Furquan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Furquan&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Furquan)
