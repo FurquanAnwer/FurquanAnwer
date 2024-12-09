@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 
 
-![Furquan's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FurquanAnwer&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FurquanAnwer&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
