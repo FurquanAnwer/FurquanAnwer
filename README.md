@@ -36,13 +36,15 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Personal Projects
+<!--
 ![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 
-[![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FurquanAnwer&theme=dark)](https://git.io/streak-stats)
 
 ![Furquan's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=FurquanAnwer&bg_color=0d1117&color=ffffff&line=00e676&point=ff5722&area=true&hide_border=true)
 
+
+-->
 
 
