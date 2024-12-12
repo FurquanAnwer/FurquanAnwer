@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=FurquanAnwer&theme=radical&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FurquanAnwer&theme=react-dark)
 -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FurquanAnwer&theme=github-compact)
+
 
