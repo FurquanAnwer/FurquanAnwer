@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Personal Projects
+
 <!--
 ![Furquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
 
@@ -46,5 +46,8 @@ Here are some ideas to get you started:
 
 
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurquanAnwer&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=FurquanAnwer&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FurquanAnwer&theme=react-dark)
 
 
