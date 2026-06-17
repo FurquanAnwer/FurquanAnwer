@@ -1,19 +1,22 @@
-## Hi there 👋
 
-<!--
-**FurquanAnwer/FurquanAnwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Furquan Anwer
 
-Here are some ideas to get you started:
+I'm a Software Engineer with 2+ years of experience building scalable web applications and developer tools. I enjoy working across the stack, with a strong focus on React, Next.js, TypeScript, Node.js, and modern cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Interests
+
+* Building SaaS products
+* AI-powered developer tools
+* System design and scalable architectures
+* Rust and Solana ecosystem
+* Open Source contributions
+
+### 🎯 Goal
+To build world-class products, contribute to open source, and grow into a high-impact software engineer working on challenging problems.
+Feel free to explore my repositories and connect with me!
+
+### 🚀 What I work with
+
 ## Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
